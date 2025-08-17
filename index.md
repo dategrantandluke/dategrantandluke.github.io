@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/poster.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/poster/poster.pdf" width="1000" height="1000" type="application/pdf"></object>

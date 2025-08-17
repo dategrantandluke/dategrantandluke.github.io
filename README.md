@@ -1,2 +1,2 @@
 # dategrantandluke.github.io
-Date Grant and Luke!
+The official site for dating Grant and Luke.

@@ -21,7 +21,7 @@
 title: Date Grant and Luke!
 email: dategrantandluke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The official for dating Grant and Luke.
+  The official site for dating Grant and Luke.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dategrantandluke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -49,3 +49,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+poster: "/poster/poster.pdf"

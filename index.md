@@ -5,7 +5,7 @@ title: Welcome to Date Grant and Luke!
 
 Hopefully, you are here because you saw one of our posters in the wild, but did not quite remember the email address. If so, you have come to the right place! 
 
-Our email is <{{site.email}}> and you can see a copy of our poster at <{{site.url}}{{site.baseurl}}/{{site.poster}}>.
+Our email is <{{site.email}}> and you can see a copy of our poster at <{{site.url}}{{site.baseurl}}{{site.poster}}>.
 
 ## Frequently Asked Questions
 
